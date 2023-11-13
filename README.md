@@ -1,4 +1,4 @@
-<h1 align="left">I am a budding software engineer, creating the future</h1>
+<h1 align="center">I am a budding software engineer, creating the future</h1>
 
 ###
 
@@ -34,6 +34,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Oussamachennak123/Oussamachennak123/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/oussama-chennak/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="chennak.oussama@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="oussama.shen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ###
